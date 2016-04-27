@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stable
 
 EXPOSE 5000
 WORKDIR /app
